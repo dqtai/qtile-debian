@@ -5,14 +5,14 @@ works great with Debian Stable
 
 ==============================
 
-These files were originally used during my personal dwm phase but then modified to supplement this guy [youtube video](https://youtu.be/ksz-PPKPnz0) on the subject.
+Originally created by: [JustAGuy Linux](https://www.youtube.com/@JustAGuyLinux).
 
 ```
 sudo apt install git
 
 git clone https://github.com/dqtai/musical-enigma
 
-cd qtile-debian
+cd musical-enigma
 
 ./install.sh
 ```
