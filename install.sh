@@ -23,8 +23,11 @@ sudo apt install -y alsa-utils
 # terminal
 sudo apt install -y kitty
 
+# file manager
+sudo apt install -y nemo
+
 # packages needed qtile after installation
-sudo apt install -y picom dunst libnotify-bin rofi
+sudo apt install -y picom dunst libnotify-bin rofi neofetch
 
 # command line text editor
 sudo apt install -y neovim
