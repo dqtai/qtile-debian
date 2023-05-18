@@ -20,6 +20,9 @@ pip3 install psutil
 # sound packages
 sudo apt install -y alsa-utils
 
+# terminal
+sudo apt install -y kitty
+
 # packages needed qtile after installation
 sudo apt install -y picom dunst libnotify-bin
 
