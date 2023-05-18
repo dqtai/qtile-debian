@@ -10,9 +10,11 @@ Originally created by: [JustAGuy Linux](https://www.youtube.com/@JustAGuyLinux).
 ```
 sudo apt install git
 
-git clone https://github.com/dqtai/musical-enigma
+git clone https://github.com/dqtai/qtile-debian
 
-cd musical-enigma
+cd qtile-debian
+
+chmod +x install.sh
 
 ./install.sh
 ```
