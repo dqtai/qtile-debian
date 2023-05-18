@@ -24,7 +24,7 @@ sudo apt install -y alsa-utils
 sudo apt install -y kitty
 
 # packages needed qtile after installation
-sudo apt install -y picom dunst libnotify-bin
+sudo apt install -y picom dunst libnotify-bin rofi
 
 # command line text editor
 sudo apt install -y neovim
