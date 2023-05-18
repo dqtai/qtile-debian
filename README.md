@@ -5,7 +5,7 @@ works great with Debian Stable
 
 ==============================
 
-Originally created by: [JustAGuy Linux](https://www.youtube.com/@JustAGuyLinux).
+Originally created by [JustAGuy Linux](https://www.youtube.com/@JustAGuyLinux).
 
 ```
 sudo apt install git
