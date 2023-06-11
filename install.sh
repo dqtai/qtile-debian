@@ -14,7 +14,7 @@ sudo apt install -y libpangocairo-1.0-0
 sudo apt install -y python3-xcffib python3-cairocffi
 
 # install Qtile
-pip3 install qtile
+pip install --no-use-pep517 --no-build-isolation qtile --break-system-packages
 pip3 install psutil
 
 # sound packages
