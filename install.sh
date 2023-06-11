@@ -30,7 +30,7 @@ sudo apt install -y nemo
 sudo apt install -y picom dunst libnotify-bin rofi neofetch
 
 # command line text editor
-sudo apt install -y neovim
+sudo apt install -y vim
 
 # create folders in user directory (Documents, Downloads, etc.)
 xdg-user-dirs-update
