@@ -4,7 +4,7 @@ works great with Debian Stable
 
 ==============================
 
-Originally created by [JustAGuy Linux](https://www.youtube.com/@JustAGuyLinux)
+All the credits to [JustAGuy Linux](https://www.youtube.com/@JustAGuyLinux) and [Linux Dabbler](https://www.youtube.com/@linuxdabbler)
 
 ```
 sudo apt install git
